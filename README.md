@@ -4,6 +4,7 @@
  <img align="right" alt="Isis-pic" height="130" style="border-radius:50px;" src="https://cdn.picrew.me/shareImg/org/202211/338224_SrCEAWV2.png">
  <br><br>👩‍💻 - Estudante de desenvolvimento de software<br> 
  🚀 - Aprendendo um pouco de tudo<br>
+  - Analista de dados<br>
 </div><br>
 
 ##
